@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f08273c-1107-4fe4-8921-def450a76914" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.073812041339349" />
+      <entry key="MS500" value="1.5950581865364146" />
+      <entry key="S2" value="2.1098930955027173" />
+      <entry key="S5" value="3.1396267134414484" />
+      <entry key="S10" value="4.783538965153875" />
+      <entry key="S30" value="9.068742933458784" />
+      <entry key="S60" value="12.152973607620726" />
+      <entry key="M2" value="15.475594064821795" />
+      <entry key="M5" value="20.181872649239686" />
+      <entry key="M10" value="26.5797867632993" />
+      <entry key="M15" value="34.1574120144267" />
+      <entry key="M30" value="58.67396327239474" />
+      <entry key="H1" value="105.67520468722006" />
+      <entry key="H2" value="173.73197568518776" />
+      <entry key="H4" value="241.5798997406988" />
+      <entry key="D1" value="334.40906447981735" />
+      <entry key="W1" value="355.3351256766551" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="4.315792937442014E-186" />
+      <entry key="S5" value="7.145362065506357E-75" />
+      <entry key="S10" value="8.453024349607872E-38" />
+      <entry key="S30" value="4.3887150908024536E-13" />
+      <entry key="S60" value="6.626177105094569E-7" />
+      <entry key="M2" value="8.299131378544541E-4" />
+      <entry key="M5" value="0.07861299662048028" />
+      <entry key="M10" value="0.528343210232806" />
+      <entry key="M15" value="1.1801450478215167" />
+      <entry key="M30" value="3.4989842062246646" />
+      <entry key="H1" value="8.75745019861432" />
+      <entry key="H2" value="17.646718231077216" />
+      <entry key="H4" value="27.310748952106284" />
+      <entry key="D1" value="41.2258656405632" />
+      <entry key="W1" value="44.43567306572079" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.13987566887443495" />
+      <entry key="MS500" value="1.1757827771571856" />
+      <entry key="S2" value="1.9814659531054468" />
+      <entry key="S5" value="3.083669443904513" />
+      <entry key="S10" value="4.7529597775023396" />
+      <entry key="S30" value="9.056197590504217" />
+      <entry key="S60" value="12.14361364058083" />
+      <entry key="M2" value="15.46651389027535" />
+      <entry key="M5" value="20.25112420429615" />
+      <entry key="M10" value="27.095843255446656" />
+      <entry key="M15" value="35.32086614749733" />
+      <entry key="M30" value="62.14715280154762" />
+      <entry key="H1" value="114.40022776830334" />
+      <entry key="H2" value="191.34735891697852" />
+      <entry key="H4" value="268.8672177949716" />
+      <entry key="D1" value="375.62922521937134" />
+      <entry key="W1" value="399.7699253692514" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3Hdv7S3eMjtlVYC94j0qyCTg7a1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.client.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.pacetkothavr.executor": "Run",
+    "Python.server.executor": "Run",
+    "Python.shoci.executor": "Run",
+    "Python.tusk act 4.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/user/Desktop/Logika",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Logika" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="Logika" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Logika" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-6fa658e1df1a-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.8665.369" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f08273c-1107-4fe4-8921-def450a76914" name="Changes" comment="" />
+      <created>1786210593529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1786210593529</updated>
+      <workItem from="1786210594333" duration="1659000" />
+      <workItem from="1786813151688" duration="3633000" />
+      <workItem from="1787416300597" duration="490000" />
+      <workItem from="1787416828908" duration="5599000" />
+      <workItem from="1788021390089" duration="381000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/client_py$server.coverage" NAME="server Coverage Results" MODIFIED="1787418273402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chat" />
+    <SUITE FILE_PATH="coverage/client_py$pacetkothavr.coverage" NAME="pacetkothavr Coverage Results" MODIFIED="1787421966512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ПАцєтко" />
+    <SUITE FILE_PATH="coverage/client_py$tusk_act_4.coverage" NAME="tusk act 4 Coverage Results" MODIFIED="1787421037342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tusk ACT 4" />
+  </component>
+</project>
